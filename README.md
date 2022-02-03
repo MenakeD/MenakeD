@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ## Technologies
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+<img href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css" />
+
